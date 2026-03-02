@@ -4,5 +4,7 @@ KENR is an enterprise pickleball ranking system.   Built with ChatGPT and using 
 Any questions you can go to 'Discussions'.
 
 Version 1.   One top level rating, everyone is 4.0
+
 Version 2.   Adding new fields, gender and ratings.   Beginnings of different levels.
+
 Version 3.   Batch processing added in addition to initial interactive.
