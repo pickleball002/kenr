@@ -1,6 +1,6 @@
 Who
 
-I am a retired software engineer, and retired racquetball player.   At the top of the food chain at both in 
+I am a retired software engineer, and retired racquetball player.   At the top of the food chain at both, in 
 retirement I'm now very middle of the road.  My laptop runs Xubuntu so I can tinker with different software
 and play my fine intermediate pickleball.
 
