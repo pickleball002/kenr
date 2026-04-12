@@ -1,3 +1,4 @@
+
 results.txt is a batch results file in the following format
 
 n,kennyz,BobY,karenx,JoshQ,1
