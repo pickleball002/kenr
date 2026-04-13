@@ -6,7 +6,7 @@ and play my fine intermediate pickleball.
 
 Why
 
-Just listening to people everyone has a story about their 'rating'.   They want to describe what happened to them.
+Just listening to people, everyone has a story about their 'rating'.   They want to describe what happened to them.
 My guess is about 1/3 are happy with a number, 1/3 think they are too high, 1/3 too low.  So I just had ChatGPT create
 something else.   I track my own play to see if numbers make sense.
 
