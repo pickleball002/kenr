@@ -13,7 +13,7 @@ games lost \
 winning percentage \
 how much above original 'kenr' you are \
 original 'kenr'. \
-gender \
+gender 
 
 future files like 'players' or 'deviation' reflect changes. 
 
