@@ -15,7 +15,7 @@ how much above original 'kenr' you are \
 original 'kenr'. \
 gender \
 
-future files like 'players' or 'deviation' reflect changes. \
+future files like 'players' or 'deviation' reflect changes. 
 
 Who is Rando?
 
