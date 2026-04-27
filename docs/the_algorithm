@@ -6,3 +6,28 @@ What answer could I give in 25 words or less
 that would make any sense?   Maybe this is the community shouting out that an existing algorithm is not 
 liked.
 
+Someone's 'Claude' recently trawled my page and pulled out keywords like 'invert' or 'reliability' but
+might miss some general concepts that would answer this question better.
+
+(Although I tentatively called this project 'Enterprise rating' perhaps a better analysis
+would be 'local DUPR'.   Points for Claude.)
+
+The algorithm is based on two parts.  Both completely mathematical ideas that I made up.
+After each part there are some sub topics which you may or may not agree with it, but they
+are mine.
+
+Part I.
+
+I believe that two 4.0s against two 4.0s is an equal match up.  No favorite.
+So next I conclude that a 4.1 and a 4.0 would be the favorite against two 4.0s.
+Then finally a 4.1 and a 3.9 would be an equal match up against two 4.0s.
+(This gets tricky as it stretches.  Are a 4.5 and a 3.5 the same as two 4.0s?
+Did they stack?   Can the 4.5 take enough shots?   Since it's not an obvious answer
+we'll just say again they are equal).  
+
+The 4.1 and 4.0 are 8.1 total the the two 4.0s are 8.  So now if the favorite wins
+they win less of the ratio (8/8.1) and if the underdog wins it's a bigger slice of
+the pie (8.1/8).   More later.
+
+
+
