@@ -2,7 +2,7 @@ origplayers is the master file for all players.  It contains their original 'ken
 
 all other fields are zero.  
 
-KennyZ,4.0,0,0,0,0.00000,0.00000,4.00000,m
+KennyZ,4.0,0,0,0,0.00000,0.00000,4.00000,m,19
 
 The fields are as such \
 name (must be unique can contain a number no other characters tested) \
@@ -13,7 +13,8 @@ games lost \
 winning percentage \
 how much above original 'kenr' you are \
 original 'kenr'. \
-gender 
+gender \
+age
 
 future files like 'players' or 'deviation' reflect changes. 
 
