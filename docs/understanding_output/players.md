@@ -9,7 +9,7 @@ necessarily mens/womens/mixed.
 
 Let's take a look at some sample output from testing Spring 1 session of rec play.
 
-TestPlayer,4.07016,87,48,39,0.55172,0.07016,4.00000,m 
+TestPlayer,4.07016,87,48,39,0.55172,0.07016,4.00000,m,19
 
 self rated to 4.0 won 48 and lost 39 and finished at 4.07. \
 That seems about right.\
