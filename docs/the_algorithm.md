@@ -39,6 +39,21 @@ same opponents is about the amount needed to move you to 4.0.
 
 There are lots of sub topics here....
 
+II.A - Reliability timeline
+
+When the program fires up with no matches played by default you have 33 games in every
+division to satisfy reliability.  This number is configurable!   In other words the value
+from Part I and Part II is added or subtracted from your rating.   After 33 games this value
+is cut in half.  This is enough time for you to get a somewhat reliable rating.   But you
+might be playing against people that are just starting and have played less than 33 games.
+While they move up and down, you will move at half the pace.   (Maybe someone entered as
+a 3.0 that should have been a 4.0....).   
+
+This reverts back at the 51 game mark when all players hit 51 games.   In other words once
+everyone has a pretty reliable rating, points are doubled up again!
+
+
+
 
 
 
