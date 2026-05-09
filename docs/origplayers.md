@@ -24,3 +24,14 @@ Rando is a random player that shows up and mixes in.   Perhaps an out of town gu
 Randa is a female.   Rather than add a player by name and 'rebuild' the system add Rando or Randa by exact name. \
 If you have 2 in the game just add Rando350 and Rando351.  
 
+Age
+
+Age should be 19 for everyone initially.   If you elect to create a new division which is age related then change
+everyone you want elibigle for that to the new age.  In other words if you want to track mixed 35+ then take all
+players aged 35 and over that are interested and set it to 35.
+
+If you have a 35 mixed and a men's 50 for example then those men over 50 should be marked as 50, and then they will
+fall into both rating systems.
+
+
+
