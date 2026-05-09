@@ -15,3 +15,9 @@ the names must match exactly.   In the above example if there is one 'kenny' you
 once results.txt is updated (maybe one time at the end of a weekend, there could be many records in one file) You can run the file
 for prod, mens, womens and mixed directories.   Looking at the data above it won't update any directory but 'prod' because it's one
 female player in a game of three men.   But if you did run it no harm is done.
+
+After you edit and make your changes to results.txt, you run the distro shell to get the data in all directories.
+(This updates prevresults.txt).
+
+Next time you add data remove everything from results.txt before you start (in prod directory)
+
