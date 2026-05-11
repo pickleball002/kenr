@@ -29,6 +29,14 @@ The 4.1 and 4.0 are 8.1 total the two 4.0s are 8.  So now if the favorite wins
 they win less of the ratio (8/8.1) and if the underdog wins it's a bigger slice of
 the pie (8.1/8).   More later.
 
+I.A
+
+At some point the match up becomes a little one sided.   If two teams are favored \
+by more than .55 (say 4.28 and 4.31 against 4.0 and 4.0) then there is a .56 bump. \
+In short if the favorite wins, they win less.   If the underdog wins they win more. 
+
+Remember winners always move up and losers move down.
+
 Part II.
 
 How many games would someone have to lose as a 4.1 to move to a 4.0 with essentially
