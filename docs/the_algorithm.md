@@ -37,12 +37,14 @@ In short if the favorite wins, they win less.   If the underdog wins they win mo
 
 Remember winners always move up and losers move down.
 
+(.55 and .56 are configurable)
+
 Part II.
 
 How many games would someone have to lose as a 4.1 to move to a 4.0 with essentially
-playing equal weight opponents?  If you went to a tournament an lose 11-7 11-7.  Then in 
+playing equal weight opponents?  If you went to a tournament and lost 11-7 11-7.  Then in 
 consolation lost 15-10.   That's not enough to move a .1 needle.
-Second tournament same result.  So that's about right.   Losing 6 games or as a 4.1 with
+Second tournament same result.  So that's about right.   Losing 6 games or so as a 4.1 with
 same opponents is about the amount needed to move you to 4.0.
 
 There are lots of sub topics here....
@@ -59,6 +61,8 @@ a 3.0 that should have been a 4.0....).
 
 This reverts back at the 51 game mark when all players hit 51 games.   In other words once
 everyone has a pretty reliable rating, points are doubled up again!
+
+(33 and 51 games, configurable)
 
 
 
