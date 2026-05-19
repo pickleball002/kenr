@@ -1,3 +1,6 @@
+Basically you gunzip/untar and only need to change a couple of paths.
+
+
 ken@DiamondDogs: /Documents/pickleball/github$ md5sum kenr301.tar.gz \
 affc42d91c10e31680790df3edd67d70  kenr301.tar.gz \
 ken@DiamondDogs: /Documents/pickleball/github$ gunzip kenr301.tar.gz \
