@@ -47,3 +47,8 @@ conclusion.
 
 Nobody wants to come down, get the perceived worst partner and play once and have the admin says it counts.   It only \
 counts if everyone plays with everyone.
+
+Tournament play
+
+I played a tournament this weekend, specifically in my age division and decided in advance to count it.   I even \
+made it GrandPrix aware.
