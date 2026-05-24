@@ -1,3 +1,23 @@
+I typically think about rebuilding the system for a couple of reasons.
+
+The first reason is that I update a 'results.txt' file with new information.  
+
+A new player in origplayers
+
+A new ranking?   
+
+The rebuild.sh will keep the old files but usually I have updated results.txt \
+but have not entered this data (or I did it and found the error).   So the sequence is
+like this.
+
+rebuild.sh
+superdistro.sh
+
+Now I need to move my new results.txt from goodresults.txt and run superdistro again to \
+pick up the new data.
+
+Below was my old 'readme' on this, where i found a physical error.   \
+superdistro has superceded distro now.
 
 ken@DiamondDogs:~/Documents/pickleball/scripts/prod$ ./rebuild.sh \
 === REBUILD PROCESS STARTING === \
