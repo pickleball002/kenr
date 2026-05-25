@@ -16,3 +16,11 @@ That seems about right.\
 Some of those wins could have been in games won in tiebreaker losses.\
 Some opponents I could have been more favored against and didn't earn as many points.\
 
+Should your 'players' numbers be equal to your gender doubles + age doubles + mixed doubles?
+
+Not likely.
+
+First age doubles is a subset of gender doubles.  In other words mens' 50 doubles is already totalled in men's doubles.
+
+Second if you play any M/M/F/M gender matches those fall into the total, but aren't part of any sub rating...right???
+
