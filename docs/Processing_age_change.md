@@ -13,3 +13,7 @@ age division directories should be recoded
             logprint("Duplicate found for $name — keeping entry with greater age\n");
 
 
+If a player has no matches played it should take the first one.
+
+But if they have no matches played (again looks in 'players' directory in prod not \
+origplayers) then just remove the 19+ entry.    got it?
