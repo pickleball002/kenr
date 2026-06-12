@@ -3,13 +3,13 @@ I'm not sure why I thought of this but processing an age change could be a thing
 At this point I'd say   \
 Create a new entry, with new age.  (duplicate with fewer games already tossed out).
 
-Move all data to this new player in the origplayers list.  (we don't want this rerun  \
-because it would process age divisions differently not knowing when they turned of age  )
+ken@DiamondDogs:~/Documents/pickleball/scripts/sandbox$ grep Mike origplayers \
+Mike,4.0,0,0,0,0.00000,0.00000,4.0,m,19 \
+Mike,4.0,0,0,0,0.00000,0.00000,4.0,m,65
 
-I think the name needs to change.   Otherwise it's going to pick up previous results \
-from preresults.txt
+age division directories should be recoded
 
-to be continued
+       if ($age > $md65players{$key}->{age}) {
+            logprint("Duplicate found for $name — keeping entry with greater age\n");
 
-1} duplicate entry, new name new age.  adjust the code to take fewer matches?
 
